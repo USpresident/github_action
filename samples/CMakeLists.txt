@@ -1,0 +1,2 @@
+add_subdirectory(oper_nums bin_oper_nums)
+add_subdirectory(test bin_test)
